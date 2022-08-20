@@ -6,7 +6,7 @@ res = []
 temp = []
 def func(index):
     if index == len(arr):
-        res.append(temp.copy)
+        res.append(temp.copy())
         return res
     temp.append(arr[index])
     func(index + 1)
