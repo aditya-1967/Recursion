@@ -1,5 +1,5 @@
 # N-Queens
-# Leetcode 56
+# Leetcode 51
 
 n = 4
 col, posDiag, negDiag = set(), set(), set()
